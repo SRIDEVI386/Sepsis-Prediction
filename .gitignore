@@ -1,0 +1,15 @@
+﻿venv/
+.venv/
+backend/venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+backend/.sepsis_jwt_secret
+backend/sepsis_auth.db
+*.db
+node_modules/
+frontend/node_modules/
+frontend/dist/
+training/
+prepared_patient_data.csv
